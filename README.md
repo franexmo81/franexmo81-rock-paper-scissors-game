@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://franexmo81.github.io/rock-paper-scissors-game)
+- Solution URL: [https://www.frontendmentor.io/solutions/rock-paper-scissors-game-html-css-and-vanilla-javascript-dacoy2CkPN](https://www.frontendmentor.io/solutions/rock-paper-scissors-game-html-css-and-vanilla-javascript-dacoy2CkPN)
+- Live Site URL: [https://franexmo81.github.io/franexmo81-rock-paper-scissors-game/](https://franexmo81.github.io/franexmo81-rock-paper-scissors-game/)
 
 ## My process
 
