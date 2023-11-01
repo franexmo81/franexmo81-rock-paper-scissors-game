@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/rock-paper-scissors-game-html-css-and-vanilla-javascript-dacoy2CkPN](https://www.frontendmentor.io/solutions/rock-paper-scissors-game-html-css-and-vanilla-javascript-dacoy2CkPN)
-- Live Site URL: [https://franexmo81.github.io/franexmo81-rock-paper-scissors-game/](https://franexmo81.github.io/franexmo81-rock-paper-scissors-game/)
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/rock-paper-scissors-game-html-css-and-vanilla-javascript-dacoy2CkPN)
+- Live Site URL: [franexmo81.github.io/franexmo81-rock-paper-scissors-game/](https://franexmo81.github.io/franexmo81-rock-paper-scissors-game/)
 
 ## My process
 
